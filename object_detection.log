@@ -1,0 +1,2 @@
+2025-01-11 16:10:19,986 - root - ERROR - Application error: Expecting property name enclosed in double quotes: line 2 column 42 (char 43)
+2025-01-11 16:11:25,499 - root - ERROR - Application error: 'ObjectDetector' object has no attribute 'setup_camera_parameters'
